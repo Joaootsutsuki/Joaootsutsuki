@@ -3,8 +3,8 @@
   
   <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaootsutsuki&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaootsutsuki&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaootsutsuki&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaootsutsuki&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -28,3 +28,4 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+![Snake animation](https://github.com/Joaootsutsuki/Joaootsutsuki/blob/output/github-contribution-grid-snake.svg)
